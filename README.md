@@ -10,7 +10,7 @@
 -  widgets:	APP内封装的一些Widget组件都在该目录下
 
 ###参考
-[Flutter实战第二版](http://localhost/)
+[Flutter实战第二版](https://book.flutterchina.club/chapter15/intro.html)
 
 
 ###免责声明
